@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giorgi</h1>
+<h1 align="center">Hi 👋, I'm Giorgi Abashidze</h1>
 <br/>
 
 <h3 align="center">I am eager to learn front end and back end development, and plan to master all the necessary programming languages for full stack development. I am also determined to build projects to enhance my portfolio and improve my skills.</h3>
