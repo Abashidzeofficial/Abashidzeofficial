@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
+<br/>
 <h3 align="center">I am eager to learn front end and back end development, and plan to master all the necessary programming languages for full stack development. I am also determined to build projects to enhance my portfolio and improve my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abashidzeofficial&label=Profile%20views&color=0e75b6&style=flat" alt="abashidzeofficial" /> </p>
