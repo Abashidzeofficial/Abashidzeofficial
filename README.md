@@ -29,11 +29,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abashidzeofficial">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abashidzeofficial&theme=radical" alt="Giorgi Abashidze's GitHub Contribution"/>
-  </a>
-</p>
+
 
 <a> 
   <a href="https://github.com/Abashidzeofficial"><img alt="Giorgi Abashidze's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abashidzeofficial&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
