@@ -24,7 +24,6 @@
 
 <h2 align="center"> Statistics: </h2>
 
-[![GitHub Statistics](https://raw.githubusercontent.com/Abashidzeofficial/github-stats-transparent/output/generated/overview.svg)](https://https://twitter.com/abashidzeoffici)
 <br/>
 <p align="center">
   <a href="https://github.com/Abashidzeofficial">
